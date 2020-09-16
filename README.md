@@ -1,2 +1,2 @@
 # work_with_outlook
-example work with outlook by python
+This is example work with outlook by python. Export attachments from messages
